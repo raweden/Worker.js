@@ -1,1 +1,0 @@
-This commit contanins the base of the worker, most functionality of w3 worker specification have been implemeted besides the one regarding base64 strings.
